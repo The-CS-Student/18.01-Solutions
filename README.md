@@ -7,7 +7,7 @@ Problem Set 1 : Completed <br/>
 Problem Set 2a : Completed<br/>
 Problem Set 2b : Completed<br/>
 Problem Set 3 : Not Completed<br/>
-Problem Set 4 : Not Completed<br/>
+Problem Set 4 : Partially Completed<br/>
 Problem Set 5 : Not Completed<br/>
 Problem Set 6 : Not Completed<br/>
 Problem Set 7 : Not Completed<br/>
