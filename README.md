@@ -3,7 +3,7 @@ This is a repository containing my solutions for the 18.01 class at MIT. Hope yo
 
 ## Status
 
-Problem Set 1 : Completed
+Problem Set 1 : Completed \n
 Problem Set 2a : Completed
 Problem Set 2b : Completed
 Problem Set 3 : Not Completed
